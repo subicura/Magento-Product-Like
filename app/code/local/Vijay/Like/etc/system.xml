@@ -3,7 +3,7 @@
     <tabs>
         <myconf_vijaystore translate="label" module="like">
             <label>VijayStore</label>
-            <sort_order>100</sort_order>
+            <sort_order>200</sort_order>
         </myconf_vijaystore>
     </tabs>	
 	
@@ -11,7 +11,7 @@
         <like_tab translate="label" module="like">
             <label>Product Like</label>
             <tab>myconf_vijaystore</tab>
-            <sort_order>1</sort_order>
+            <sort_order>1000</sort_order>
             <show_in_default>1</show_in_default>
             <show_in_website>1</show_in_website>
             <show_in_store>1</show_in_store>
